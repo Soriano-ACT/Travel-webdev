@@ -21,14 +21,7 @@ body {
   .invalid {
     border: 2px solid red;
   }
-  
-  .mb-2 {
-    margin-bottom: 20px;
-  }
-  
-  .mb-4 {
-    margin-bottom: 40px;
-  }
+
   
   input {
     padding: 10px;
@@ -39,6 +32,9 @@ body {
     outline: none;
     color: #333;
   }
+h1{
+    margin-left:40px;
+}
   
   .form-control {
     font-size: 20px;
